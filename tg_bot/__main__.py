@@ -24,7 +24,7 @@ im a group manager bot maintained by  [this person](tg://user?id={}).
 
 My future updates will be put into This Channel - @telugucartoonlover & My Support Group @telugucartoonlover.
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-2.0-English),
+This is my [owner id](https://telegram.dog/royalswillaspro),
 you can create clone same like me..
 
 For more commands click /help...
