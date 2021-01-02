@@ -25,7 +25,7 @@ im a group manager bot maintained by  [this person](tg://user?id={}).
 My future updates will be put into This Channel - @telugucartoonlover & My Support Group @telugucartoonlover.
 
 This is my [owner id](https://telegram.dog/royalswillaspro),
-you can create clone same like me..
+you can ask him if u have any issues on bot..
 
 For more commands click /help...
 
