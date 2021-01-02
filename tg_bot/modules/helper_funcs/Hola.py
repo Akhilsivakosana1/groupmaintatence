@@ -1,3 +1,0 @@
-snd
-sh
-dkjd
