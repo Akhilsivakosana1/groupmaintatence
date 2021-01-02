@@ -145,7 +145,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                 PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
                 parse_mode=ParseMode.MARKDOWN)
     else:
-        update.effective_message.reply_text("waked up😏😏😏")
+        update.effective_message.reply_text("Wow!aa I am on super hero's group I am maken by @royalswillaspro I am alive 😄😄😄😄one more thanks to TCL™ for giving birth to me ❤️❤️")
 
 
 # for test purposes
