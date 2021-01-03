@@ -22,9 +22,9 @@ hoi {}, my name is {}! if you have any questions about how to use me please give
 
 im a group manager bot maintained by  [this person](tg://user?id={}).
 
-My future updates will be put into This Channel - [is this ](Https://t.me/TeluguCartoonIndia) & My Support Group [is this ](https://telegram.dog/telugucartoonlover_discussion).
+My future updates will be put into This Channel - [is this ](Https://t.me/telugucartoonlover) & My Support Group [is this ](https://telegram.dog/telugucartoonlover_discussion).
 
-This is my [owner id](https://telegram.dog/Jack16Y),
+This is my [owner id](https://telegram.dog/royalswillaspro),
 you can ask him if u have any issues on bot..
 
 For more commands click /help...
