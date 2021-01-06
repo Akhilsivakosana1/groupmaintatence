@@ -24,7 +24,7 @@ im a group manager bot maintained by  [this person](tg://user?id={}).
 
 My future updates will be put into This Channel - [is this ](Https://t.me/telugucartoonlover) & My Support Group [is this ](https://telegram.dog/telugucartoonlover_discussion).
 
-You can add me to  your group from [here](http://t.me/tclgroupmanagerbot?startgroup=true)
+You can add me to your group by this method just add me to your group and promote me as admin with full rights except anonymous and type /start that's it I am alive in your group
 
 This is my [owner id](https://telegram.dog/royalswillaspro),
 you can ask him if u have any issues on bot..
