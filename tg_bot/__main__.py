@@ -22,11 +22,11 @@ hoi {}, my name is {}! if you have any questions about how to use me please give
 
 im a group manager bot maintained by  [this person](tg://user?id={}).
 
-My future updates will be put into This Channel - [is this ](Https://t.me/telugucartoonlover) & My Support Group [is this ](https://telegram.dog/telugucartoonlover_discussion).
+My future updates will be put into This Channel - [is this ](Https://t.me/jvallcartoonsnewtelugu) & My Support Group [is this ](https://telegram.dog/jvrcartoonsmotupatlu).
 
 You can add me to your group by this method just add me to your group and promote me as admin with full rights except anonymous and type /start that's it I am alive in your group
 
-This is my [owner id](https://telegram.dog/royalswillaspro),
+This is my [owner id](https://telegram.dog/@JVRFOUNDER),
 you can ask him if u have any issues on bot..
 
 For more commands click /help...
@@ -147,7 +147,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                 PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
                 parse_mode=ParseMode.MARKDOWN)
     else:
-        update.effective_message.reply_text("Wow!aa I am on super hero's group I am maken by @royalswillaspro I am alive 😄😄😄😄one more thanks to TCL™ for giving birth to me ❤️❤️")
+        update.effective_message.reply_text("Wow!aa I am on super hero's group I am maken by @JVRFOUNDER I am alive 😄😄😄😄one more thanks to JVR™ for giving birth to me ❤️❤️")
 
 
 # for test purposes
